@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670159671 source:d:\kuliah\dipaa\main.cpp
+	"queue.h"
+
+1672923980 source:d:\kuliah\dipaa\queue.cpp
+	"queue.h"
+
+1672924032 d:\kuliah\dipaa\queue.h
+	<iostream>
+
